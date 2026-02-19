@@ -1,0 +1,1 @@
+# MIC-BTECH-IT-2025_26-Django
